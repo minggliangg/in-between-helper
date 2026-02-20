@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code when working with code in this repository.
 
 ## Commands
 
@@ -21,3 +21,7 @@ Single-page React 19 app bundled with Vite 8 (beta). Entry: `index.html` → `sr
 - `tsconfig.app.json` — TS config for app source; `tsconfig.node.json` — for Vite config itself
 
 Package manager: **bun** (lockfile is `bun.lock`).
+
+## Deployment
+
+Deployed to GitHub Pages at: https://minggliangg.github.io/in-between-helper/

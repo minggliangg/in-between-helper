@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/claude-in-between/',
+  base: '/in-between-helper/',
   plugins: [react()],
 })
